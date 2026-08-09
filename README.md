@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Scott Bing
+# 👋 Hello, I'm Scott Bing
 
 ### Python Developer • AI/ML Educator • Quantum Computing
 
